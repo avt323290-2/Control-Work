@@ -1,0 +1,15 @@
+E:\Мои документы\Миша\GeekBrains\Выбор специализации\Control-Work\bin\Debug\net7.0\Control-Work.exe
+E:\Мои документы\Миша\GeekBrains\Выбор специализации\Control-Work\bin\Debug\net7.0\Control-Work.deps.json
+E:\Мои документы\Миша\GeekBrains\Выбор специализации\Control-Work\bin\Debug\net7.0\Control-Work.runtimeconfig.json
+E:\Мои документы\Миша\GeekBrains\Выбор специализации\Control-Work\bin\Debug\net7.0\Control-Work.dll
+E:\Мои документы\Миша\GeekBrains\Выбор специализации\Control-Work\bin\Debug\net7.0\Control-Work.pdb
+E:\Мои документы\Миша\GeekBrains\Выбор специализации\Control-Work\obj\Debug\net7.0\Control-Work.csproj.AssemblyReference.cache
+E:\Мои документы\Миша\GeekBrains\Выбор специализации\Control-Work\obj\Debug\net7.0\Control-Work.GeneratedMSBuildEditorConfig.editorconfig
+E:\Мои документы\Миша\GeekBrains\Выбор специализации\Control-Work\obj\Debug\net7.0\Control-Work.AssemblyInfoInputs.cache
+E:\Мои документы\Миша\GeekBrains\Выбор специализации\Control-Work\obj\Debug\net7.0\Control-Work.AssemblyInfo.cs
+E:\Мои документы\Миша\GeekBrains\Выбор специализации\Control-Work\obj\Debug\net7.0\Control-Work.csproj.CoreCompileInputs.cache
+E:\Мои документы\Миша\GeekBrains\Выбор специализации\Control-Work\obj\Debug\net7.0\Control-Work.dll
+E:\Мои документы\Миша\GeekBrains\Выбор специализации\Control-Work\obj\Debug\net7.0\refint\Control-Work.dll
+E:\Мои документы\Миша\GeekBrains\Выбор специализации\Control-Work\obj\Debug\net7.0\Control-Work.pdb
+E:\Мои документы\Миша\GeekBrains\Выбор специализации\Control-Work\obj\Debug\net7.0\Control-Work.genruntimeconfig.cache
+E:\Мои документы\Миша\GeekBrains\Выбор специализации\Control-Work\obj\Debug\net7.0\ref\Control-Work.dll

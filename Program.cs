@@ -22,9 +22,9 @@ for (int i = 0; i < size; i++){
 	arr1[i] = result;  
 }
 Console.WriteLine();
-Console.Write("Введенный Вами массив: [ ");
-Console.Write(string.Join("  ", arr1));
-Console.Write(" ]");
+Console.Write("Введенный Вами массив: [" + string.Join("  ", arr1) + "]");
+//Console.Write(string.Join("  ", arr1));
+//Console.Write(" ]");
 
 int count = 0;
 int maxElements = 3;
@@ -36,7 +36,7 @@ for (int i = 0; i < arr1.Length; i++){
 }
 Console.WriteLine();
 Console.WriteLine();
-Console.Write("Массив, удовлетворяющий условию задачи: [ ");
+Console.Write("Массив, удовлетворяющий условию задачи: [");
 string[] arr2 = new string[count];
 int j = 0;
 for (int i = 0; i < arr1.Length; i++){
@@ -46,5 +46,5 @@ for (int i = 0; i < arr1.Length; i++){
         j++;
     }
 }
-Console.Write(" ]");
+Console.Write("]");
 
